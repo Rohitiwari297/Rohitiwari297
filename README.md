@@ -1,7 +1,5 @@
 <p align="center">
- <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/123928513?s=400&u=cd829699a68a546b8d6b3be336b1ff31ef50e292&v=4" width="150" alt="Rohit Tiwari" />
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Rohit Tiwari</h1>
