@@ -1,9 +1,18 @@
 <p align="center">
+  <h1 align="center">Hi 👋, I'm Rohit Tiwari</h1>
+</p>
 
+<p align="center">
+  Full Stack Developer | React & Node.js Enthusiast | Passionate About Web Development
+</p>
 
+<p align="center">
+Welcome to my GitHub profile! I’m a **Full Stack Developer** passionate about creating modern and efficient web applications. I love exploring new technologies, building personal projects, and continuously improving my skills in **JavaScript, React, Node.js, and databases**.
+</p>
 
-<h1 align="center">Hi 👋, I'm Rohit Tiwari</h1>
-<p align="center">Full Stack Developer | React & Node.js Enthusiast | Passionate About Web Development</p>
+<p align="center">
+💡 Fun Fact: I enjoy turning small ideas into projects to learn faster and explore new concepts!
+</p>
 
 ---
 
@@ -15,7 +24,6 @@
   <a href="https://github.com/Rohitiwari297">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
 </p>
 
 ---
@@ -58,5 +66,6 @@
 ---
 
 ⭐ **If you like my work, don’t forget to star my repositories!**
+
 
 
